@@ -1,0 +1,16 @@
+.product {
+    width: 400px;
+    height: 230px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.product label{
+    float: left;
+    width: 10em;
+}
+
+.product input {
+    margin: 5px;
+    padding-top: 5px;
+}
